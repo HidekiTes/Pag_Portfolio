@@ -10,3 +10,15 @@ Este repositório contém o código-fonte de uma página de portfólio pessoal d
 **Tecnologias utilizadas**: React, Next.js e Tailwind CSS.
 
 Sinta-se à vontade para explorar, sugerir melhorias ou contribuir!
+
+### Funcionalidades e Seções a serem adicionadas
+- [ ] Ajustar tamanho de fontes para Mobile / Monitor Convencional / Ultrawide (Ultrawide está muito grande a fonte)
+- [ ] Função para troca de idioma
+- [ ] Exibição de Skills (Com barra de progresso e porcentagem dinâmica)
+- [ ] Adição de papel de parede
+- [ ] Aplicar personalidade a página
+- [ ] Adição de projetos para povoar o site
+- [ ] Adicionar curriculo para Download
+- [ ] Adicionar meios de Contato
+- [ ] Adicionar Logo para adicionar personalidade
+- [ ] Fazer ajustes de Design
